@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <a href='' target='blank'>Clique aqui para acessar no Tinkercad</a>
+  <a href='https://www.tinkercad.com/things/9kqSDBIbiLp' target='blank'>Clique aqui para acessar no Tinkercad</a>
 </p>
 
 <h3>Materiais utilizados</h3>
