@@ -1,4 +1,4 @@
-<p align='center'><img width='800' src=""/></p>
+<p align='center'><img width='800' src="https://github.com/juuliana/LEDArduino/blob/master/LEDImage.png"/></p>
 
 <h1 align='center'>Acionar LED - Arduino</h1>
 
